@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-06-15'
 papers:
   A4mDNMAAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -22,7 +22,7 @@ papers:
     title: Distribution of singular values in large sample cross-covariance matrices
     year: '2025'
   A4mDNMAAAAAJ:YsMSGLbcyi4C:
-    citations: 0
+    citations: 1
     title: Detectability, Interpretability, and the Limits of Machine Learning in High-Dimensional Physical Systems
     year: '2025'
   A4mDNMAAAAAJ:d1gkVwhDpl0C:
